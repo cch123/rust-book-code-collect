@@ -1,0 +1,51 @@
+[submodule "Mastering-RUST-Second-Edition"]
+	path = Mastering-RUST-Second-Edition
+	url = git@github.com:PacktPublishing/Mastering-RUST-Second-Edition.git
+[submodule "Network-Programming-with-Rust"]
+	path = Network-Programming-with-Rust
+	url = git@github.com:PacktPublishing/Network-Programming-with-Rust.git
+[submodule "Hands-On-Functional-Programming-in-Rust"]
+	path = Hands-On-Functional-Programming-in-Rust
+	url = git@github.com:PacktPublishing/Hands-On-Functional-Programming-in-Rust.git
+[submodule "Hands-On-Concurrency-with-Rust"]
+	path = Hands-On-Concurrency-with-Rust
+	url = git@github.com:PacktPublishing/Hands-On-Concurrency-with-Rust.git
+[submodule "Hands-On-Microservices-with-Rust"]
+	path = Hands-On-Microservices-with-Rust
+	url = git@github.com:PacktPublishing/Hands-On-Microservices-with-Rust.git
+[submodule "Mastering-Rust"]
+	path = Mastering-Rust
+	url = git@github.com:PacktPublishing/Mastering-Rust.git
+[submodule "Rust-Programming-By-Example"]
+	path = Rust-Programming-By-Example
+	url = git@github.com:PacktPublishing/Rust-Programming-By-Example.git
+[submodule "Rust-Cookbook"]
+	path = Rust-Cookbook
+	url = git@github.com:PacktPublishing/Rust-Cookbook.git
+[submodule "Rust-High-Performance"]
+	path = Rust-High-Performance
+	url = git@github.com:PacktPublishing/Rust-High-Performance.git
+[submodule "Hands-On-Data-Structures-and-Algorithms-with-Rust"]
+	path = Hands-On-Data-Structures-and-Algorithms-with-Rust
+	url = git@github.com:PacktPublishing/Hands-On-Data-Structures-and-Algorithms-with-Rust.git
+[submodule "Learn-Rust-in-7-Days"]
+	path = Learn-Rust-in-7-Days
+	url = git@github.com:PacktPublishing/-Learn-Rust-in-7-Days.git
+[submodule "Rust-Essentials-Second-Edition"]
+	path = Rust-Essentials-Second-Edition
+	url = git@github.com:PacktPublishing/Rust-Essentials-Second-Edition.git
+[submodule "Learning-Rust"]
+	path = Learning-Rust
+	url = git@github.com:PacktPublishing/Learning-Rust.git
+[submodule "Rust-Standard-Library-Cookbook"]
+	path = Rust-Standard-Library-Cookbook
+	url = git@github.com:PacktPublishing/Rust-Standard-Library-Cookbook.git
+[submodule "RUST-The-Easy-Way"]
+	path = RUST-The-Easy-Way
+	url = git@github.com:PacktPublishing/-RUST-The-Easy-Way.git
+[submodule "Building-Reusable-Code-with-Rust"]
+	path = Building-Reusable-Code-with-Rust
+	url = git@github.com:PacktPublishing/Building-Reusable-Code-with-Rust.git
+[submodule "ProgrammingRust"]
+	path = ProgrammingRust
+	url = git@github.com:ProgrammingRust/examples.git
